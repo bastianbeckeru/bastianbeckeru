@@ -1,5 +1,9 @@
-*Industrial Civil Engineering*
+*Industrial Civil Engineer*
 
-I design efficient systems, transforming complex problems into clear, sustainable solutions through rigorous data-driven decision-making.
+Designing efficient systems. Crafting polished, well-structured software and web experiences.
 
-Explore [MiMalla](https://mimalla.vercel.app), an academic planning tool for resource management, or visit [my website](https://bastianbecker.cl) for further insights.
+Currently building [LaPortales](https://laportales.cl), a digital medium, and [MiMalla](https://mimalla.vercel.app), an academic planning tool.
+
+React / TypeScript / Tailwind / Motion / SQL / AWS
+
+More at [bastianbecker.cl](https://bastianbecker.cl).
